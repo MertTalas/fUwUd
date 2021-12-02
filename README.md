@@ -1,1 +1,1 @@
-Repository of fUwUd App
+Repository of fUwUd Android App
